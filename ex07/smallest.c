@@ -1,1 +1,1 @@
-int main(int c,char**v){if(c==3)printf("%s %s\n",v[1],v[2]);}
+int main(int c,char**v){if(c==3)return(printf("%s %s\n",v[1],v[2]));}
